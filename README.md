@@ -187,7 +187,7 @@ Anyone can help out and it looks way more complicated than it is! If you would r
 1. Sign into your Github account or make a new Github account.
 2. Go to https://github.com/kvhnuke/etherwallet/tree/mercury/app/scripts/translations
 3. Click on the language file you want to update.
-4. Look in the upper right. Click the pencil icon. This will then tell you, *"You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request."* Ignore it all.
+4. Look in the upper right. Click the pencil icon. This will then tell you, *"You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request."* Ignore all.
 5. In your browser, start translating. Translate as little or as much as you want.
 6. Scroll down to halfway to the translator's section. Enter your name/username, donation address, and any comments you would like to leave.
 7. When you are done, tell us what language you updated. You can also leave any notes about problems you had or things you'd like us to know.
